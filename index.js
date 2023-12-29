@@ -64,8 +64,10 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-
-
+  inquirer.prompt(questions).then((data) => {
+    const markdownFile = generateMarkdown(data);
+    writeToFile('README.md', markdownFile);
+  })
 }
 
 // function call to initialize program

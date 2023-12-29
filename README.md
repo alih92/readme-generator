@@ -1,7 +1,7 @@
-# README generator
+# README Generator
 
   ## Description
-  You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+  You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project
 
   ## Table of Contents
 
@@ -23,11 +23,11 @@
   This project is licensed under the MIT license.
 
   ## Contributing
-  Contact the developer
+  Contact the developer using the details below
 
   ## Tests
-  To run tests, run the following command:  
-  npm init -y
+  To run tests, run the following command: 
+  npm test
 
   ## Questions
   If you have any questions, about the repo, open an issue or contact me directly at [alih_09@hotmail.com](mailto:alih_09@hotmail.com) or you can find more of my work at [alih92](https://github.com/alih92).

@@ -2,6 +2,8 @@
 
   ## Description
   You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+      
+Walthrough video: [README Generator Demo Link]( https://watch.screencastify.com/v/0mwfEF4ZubiAloqRKvNI)
 
   ## Table of Contents
 
@@ -14,7 +16,7 @@
 
   ## Installation
   To install the necessary dependencies, run the following command:
-    npm init -y
+    npm i
 
   ## Usage
   To be able to run the project, open your terminal and run node index.js
@@ -23,7 +25,7 @@
   This project is licensed under the MIT license.
 
   ## Contributing
-  Contact the developer using the details below
+  Contact the developer using the dtails below
 
   ## Tests
   To run tests, run the following command: 
